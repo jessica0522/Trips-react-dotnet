@@ -1,7 +1,6 @@
 using System.Collections.Generic;
-using Trips.Data;
 
-namespace Trip.Data
+namespace Trips.Data
 {
     public class TripService : ITripService
     {
